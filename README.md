@@ -26,9 +26,9 @@ The model predicts house prices with reasonable accuracy. The final model can be
 
 ## Files 📂
 - `House_Price_Prediction.ipynb`: Main notebook with code and explanations.
-- `data`: Folder containing the dataset.
+- `data`: Folder containing the dataset file.
 
 ## Contact 📬
-For any queries, reach out at [Your Email].
+For any queries, reach out at ghavateankita@gmail.com.
 
 Feel free to contribute and improve the project! 🎉
